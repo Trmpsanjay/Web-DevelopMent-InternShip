@@ -114,7 +114,7 @@ body {
   Text-align: center;
   line-height: 1.5;
   font-family: "Montserrat";
-  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/stats-bg-image.jpg");
+  background-image: url("https://github.com/Trmpsanjay/Web-DevelopMent-InternShip/blob/master/Task3/images/stats-bg-image.jpg?raw=true");
   background-size: cover;
   position: relative;
   top: 0px;
@@ -169,7 +169,7 @@ body {
 }
 
 .instructor-div2 {
-  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/instructor-img.jpg");
+  background-image: url("https://github.com/Trmpsanjay/Web-DevelopMent-InternShip/blob/master/Task3/images/instructor-img.jpg?raw=true");
   background-size: cover;
   /* height: 1000px;
   width: auto; */
@@ -304,7 +304,7 @@ body {
 }
 
 #trainer {
-  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/trainer-bg-image.jpg");
+  background-image: url("https://github.com/Trmpsanjay/Web-DevelopMent-InternShip/blob/master/Task3/images/trainer-bg-image.jpg?raw=true");
   background-size: cover;
   opacity: .5;
   height: 600px;
