@@ -1,0 +1,436 @@
+body {
+  background-color: #f4f9f3;
+  margin: 0;
+}
+
+#navigation-bar {
+  /* background-color: #e0ece4; */
+}
+
+.navbar-div {
+  margin-top: 30px;
+}
+
+.nav-item {
+  padding-left: 70px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 100px;
+}
+
+.top-image {
+  position: relative;
+  left: 20px;
+  top: 100px;
+}
+
+.img-circle {
+  border-radius: 80%;
+}
+
+.top-heading-text {
+  font-family: "Montserrat";
+  font-size: 4.5rem;
+  font-weight: 800;
+  color: #6b9893;
+}
+
+.top-heading-description-text {
+  font-family: "Ubuntu";
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #6b9893;
+}
+
+.top-text {
+  position: relative;
+  top: 200px;
+  left: 50px;
+}
+
+.join-us-button {
+  position: relative;
+  top: 15px;
+  left: 300px;
+}
+
+.btn-text {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #fff;
+}
+
+#choose-class {
+  background-color: #6b9893;
+  margin-top: 150px;
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.choose-class-heading-text {
+  font-size: 3.5rem;
+  font-weight: 800;
+}
+
+.choose-image {
+  padding: 30px;
+}
+
+.plan-type {
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+.plan-description {
+  text-align: center;
+  color: #fff;
+  font-family: "Ubuntu";
+  line-height: 1.5;
+  font-style: normal;
+}
+
+.choose-class-description-text {
+  font-family: "Ubuntu";
+  line-height: 1.5;
+}
+
+.choose-class-description {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#stats {
+  Text-align: center;
+  line-height: 1.5;
+  font-family: "Montserrat";
+  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/stats-bg-image.jpg");
+  background-size: cover;
+  position: relative;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.5;
+  height: auto;
+  width: auto;
+  padding-bottom: 80px;
+}
+
+.stats-main {
+  position: relative;
+  z-index: 100;
+}
+
+.stats-heading {
+  padding: 25px 25px;
+  font-size: 3.5rem;
+  font-weight: 800;
+}
+
+.circle {
+  text-align: center;
+  border-radius: 200px;
+  color: #6b9893;
+  border: 5px solid;
+  height: 250px;
+  font-weight: bold;
+  width: 250px;
+  display: table;
+  margin: 20px auto;
+  float: left;
+  margin-left: 150px;
+}
+
+.stats-circke-heading {
+  text-align: center;
+  padding: 50px 50px;
+  font-weight: bold;
+}
+
+#instructor {
+  background-color: #6b9893;
+}
+
+.instructor-div1 {
+  background-color: #6b9893;
+  height: auto;
+  width: auto;
+}
+
+.instructor-div2 {
+  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/instructor-img.jpg");
+  background-size: cover;
+  /* height: 1000px;
+  width: auto; */
+}
+
+.instructor-heading {
+  padding-top: 250px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+}
+
+.instructor-heading-text {
+  line-height: 2;
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3.5rem;
+}
+
+.instructor-description {
+  line-height: 2;
+  color: #fff;
+  font-family: "Ubuntu";
+  font-weight: normal;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 25px;
+  font-size: 1.5rem;
+}
+
+.read-more-button {
+  padding-left: 450px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.btn-text {
+  background-color: #fff;
+  color: #6b9893;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.experience-img {
+  padding: 50px;
+}
+
+.experience-text {
+  padding-top: 150px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #6b9893;
+}
+
+.experience-text-heading {
+  line-height: 2;
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3.5rem;
+}
+
+.experience-description-text {
+  font-family: "Ubuntu";
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #6b9893;
+}
+
+#pricing {
+  background-color: #6b9893;
+}
+
+.pricing-head {
+  text-align: center;
+  color: #fff;
+  padding-top: 25px;
+}
+
+.pricing-head-text {
+  font-size: 3.5rem;
+  font-weight: 800;
+  font-family: "Montserrat"
+}
+
+.price-description {
+  padding-top: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.price-description-text {
+  font-size: 1.5rem;
+  font-family: "Ubuntu";
+  line-height: 1.5;
+}
+
+.price-card {
+  width: 300px;
+  height: auto;
+}
+
+.card {
+  height: auto;
+  width: 300px;
+  margin-left: 10px;
+  color: #6b9893;
+  text-align: center;
+  margin: 200px;
+  margin-top: 50px;
+  padding: 5px;
+  margin-bottom: 100px;
+}
+
+.card-heading-text {
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.card-description-text {
+  line-height: 1.5;
+  font-size: 1rem;
+  font-family: "Ubuntu"
+}
+
+.reg-text {
+  background-color: #6b9893;
+  font-family: "Ubuntu";
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#trainer {
+  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task3/images/trainer-bg-image.jpg");
+  background-size: cover;
+  opacity: .5;
+  height: 600px;
+  width: auto;
+}
+
+.trainer-image {
+  text-align: center;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.trainer-text-div {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.trainer-text {
+  color: #6b9893;
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.trainer-name-div {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.trainer-name {
+  color: #6b9893;
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+  font-weight: 800;
+}
+
+#update {
+  background-color: #6b9893;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 150px;
+  padding-top: 150px;
+}
+
+.update-heading-text {
+  padding-top: 50px;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: 800;
+}
+
+.update-description-text {
+  padding-top: 30px;
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.subscribe-us {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.home-newsletter .single h2 {
+  font-size: 22px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+
+.home-newsletter .single .form-control {
+  height: 50px;
+  background: rgba(255, 255, 255, 0.6);
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .single .form-control:focus {
+  box-shadow: none;
+  border-color: #243c4f;
+}
+
+.home-newsletter .single .btn {
+  min-height: 50px;
+  border-radius: 0 20px 20px 0;
+  background: #243c4f;
+  color: #fff;
+  padding: 80px 0;
+  padding-bottom: 50px;
+}
+
+.single {
+  padding-top: 50px;
+}
+
+#footer {
+  color: #6b9893;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.title {
+  padding-top: 20px;
+  font-family: "Ubuntu";
+}
+
+.title-description {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: "Ubuntu";
+  line-height: 2
+}
+.about{
+  text-align: justify;
+}
+.li-item{
+color:#6b9893;
+font-weight: bold;
+font-size: 1.2rem;
+}
+.services{
+  text-align: justify;
+}
+.follow-us{
+  text-align: justify;
+}
