@@ -3,7 +3,7 @@ body {
 }
 
 #navigation {
-  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task1/images/2.jpg");
+  background-image: url("https://github.com/Trmpsanjay/Web-DevelopMent-InternShip/blob/master/Task1/images/2.jpg?raw=true");
   background-repeat: no-repeat;
   height: auto;
   width: auto;
@@ -141,7 +141,7 @@ padding-top: 3%;
 
 }
 #food-compliment{
-  background-image: url("file:///C:/Users/Sanjay/Desktop/StartupInc/Task1/images/food.jpg");
+  background-image: url("https://github.com/Trmpsanjay/Web-DevelopMent-InternShip/blob/master/Task1/images/food.jpg?raw=true");
   background-repeat: no-repeat;
   height: 600px;
   width: auto;
